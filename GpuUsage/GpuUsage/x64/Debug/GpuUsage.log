@@ -1,0 +1,7 @@
+﻿     Creating library F:\courseproj\Kursach_4sem_to4no\CourseProject\x64\Debug\GpuUsage.lib and object F:\courseproj\Kursach_4sem_to4no\CourseProject\x64\Debug\GpuUsage.exp
+  GpuUsage.vcxproj -> F:\courseproj\Kursach_4sem_to4no\CourseProject\x64\Debug\GpuUsage.dll
+  GpuUsage.vcxproj -> F:\courseproj\Kursach_4sem_to4no\CourseProject\x64\Debug\GpuUsage.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "F:\courseproj\Kursach_4sem_to4no\CourseProject\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+  Скопировано файлов:         2.
