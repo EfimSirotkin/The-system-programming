@@ -1,0 +1,94 @@
+Sun Jun  2 11:25:10 2019
+
+	Processor's information
+
+ Name: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+ Manufacturer: GenuineIntel
+ Processor's architecture: ı64
+ The number of cores: 4
+ The number of logical processors: 8
+ The max clock speed: 2401 Ã√ˆ
+ Role: CPU
+ Status: OK
+ Cache size L2: 1024  ·
+ Cache size L3: 6144  ·
+============
+ CPU usage: 15%
+========================================
+	VideoCard and Monitor inforamtion
+
+Intel(R) HD Graphics 4600
+ Video memory capacity: 0 MB
+ Registry branch: \Registry\Machine\System\CurrentControlSet\Control\Video\{5BF6FCEB-36A2-42D0-9A68-842D9DFDD5D7}\0000
+
+ Display resolution: 1920 x 1080
+ Display size: 345 mm ı 194 mm
+ Display inch: 15.6 inch
+ Colors palette: 32 bit
+ Update rate: 59 Hz
+
+==========   Discrete videocard information   ============
+ GeForce GTX 765M
+ Device Number:  0
+ Memory Clock Rate (KHz): 2000000
+ Memory Bus Width (bits): 128
+ Peak Memory Bandwidth (GB/s): 64 Clock Rate (KHz): 862500
+ L2CacheSize (bytes): 262144
+ Global memory(mbytes): 2048
+	RAM's information
+
+ Use of physical info: 65%
+ RAM initial capacity: 8112 MB
+ Free memory capacity: 2795 MB
+
+ Full amount for after-load files: 9392 MB
+ Free memory for after-load files: 2809 MB
+
+
+========= EXTRA INFORMATION ABOUT YOUR SYSTEM ============
+========================================
+	Disks's iformation: 
+ Disk C:\ -  fixed disk
+ Disk capacity: 99961 MB
+ Free: 4089 MB
+ Loaded: 95872 MB
+ Fyle system: NTFS
+
+ Disk D:\ -  fixed disk
+ Disk capacity: 3121 MB
+ Free: 2791 MB
+ Loaded: 330 MB
+ Fyle system: NTFS
+
+ Disk E:\ -  fixed disk
+ Disk capacity: 399999 MB
+ Free: 252573 MB
+ Loaded: 147426 MB
+ Fyle system: NTFS
+
+ Disk F:\ -  fixed disk
+ Disk capacity: 353339 MB
+ Free: 31695 MB
+ Loaded: 321644 MB
+ Fyle system: NTFS
+
+ Disk G:\ -  removable disk
+ Disk capacity: 14824 MB
+ Free: 11810 MB
+ Loaded: 3013 MB
+ Fyle system: FAT32
+
+ Disk H:\ -  CD-ROM
+ Disk capacity: 0 MB
+ Free: 0 MB
+ Loaded: 0 MB
+ Fyle system: Õ/‰
+
+========================================
+	System's information
+
+Name: DESKTOP-5UTM7VI
+User: Dora
+System folder: C:\Windows\system32
+Windows folder: C:\Windows
+Temp folder: C:\Users\Dora\AppData\Local\Temp\

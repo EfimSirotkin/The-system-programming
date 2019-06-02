@@ -1,0 +1,27 @@
+﻿  CourseWork.cpp
+e:\coursework\coursework\coursework.cpp(22): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  CpuInfo.cpp
+e:\coursework\coursework\cpuinfo.cpp(207): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  DeviceInfo.cpp
+e:\coursework\coursework\deviceinfo.cpp(112): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  DiskInfo.cpp
+e:\coursework\coursework\diskinfo.cpp(116): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  File.cpp
+e:\coursework\coursework\file.cpp(63): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  MemoryInfo.cpp
+e:\coursework\coursework\memoryinfo.cpp(40): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Menu.cpp
+e:\coursework\coursework\menu.cpp(56): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  NetworkInfo.cpp
+e:\coursework\coursework\networkinfo.cpp(67): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  ProcessInfo.cpp
+e:\coursework\coursework\processinfo.cpp(50): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  SystemInfo.cpp
+e:\coursework\coursework\systeminfo.cpp(43): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Time.cpp
+e:\coursework\coursework\time.cpp(9): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  UsageMonitoring.cpp
+e:\coursework\coursework\usagemonitoring.cpp(37): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  VideoInfo.cpp
+e:\coursework\coursework\videoinfo.cpp(80): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Создание кода...
